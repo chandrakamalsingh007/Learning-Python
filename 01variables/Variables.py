@@ -15,3 +15,4 @@ print("my name is ",name," My age is ",age,"Price is ",price)
 # integer - without decimal points
 # float - with decimal points
 # string - any word or a collection of characters
+# Hello
